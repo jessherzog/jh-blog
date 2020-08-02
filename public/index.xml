@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JH</title>
+    <link>http://example.org/</link>
+    <description>Recent content on JH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 16:15:10 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>&lt;p&gt;Hi, my name is Jess Herzog.  I&amp;rsquo;m a designer and educator developing creative ways to learn STEM.
+&lt;figure&gt;
+    &lt;img src=&#34;../static/jess.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;me in Morocco&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hey!  I&amp;rsquo;m &lt;code&gt;inside content&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
