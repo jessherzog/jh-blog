@@ -1,6 +1,6 @@
 ---
-title: Netlify CMS test
+title: Netlify CMS test 2
 date: 2020-08-04T23:38:21.956Z
-description: Hi, this is a test!
+description: Test number 2
 ---
-Hey hey hey
+Will this be added to /posts dir?
