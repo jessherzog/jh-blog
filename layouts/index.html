@@ -6,6 +6,8 @@
 <hr  class="pt-2"/>
 {{end}}
 
+<head><script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script></head>
+
 <div>
 	<section>
 		{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
