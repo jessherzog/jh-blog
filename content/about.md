@@ -6,6 +6,6 @@ description: ""
 tags: [ "about" ]
 ---
 Hi, my name is Jess Herzog.  I'm a designer and educator developing creative ways to learn STEM.  Thanks for visiting!  Find my contact info on [my main site.](http://jessica-herzog.com/)
-{{< figure src="/img/about/jess.JPG" title="">}}
+{{< figure src="/img/jess.JPG" title="">}}
 
 
