@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go on JH</title>
-    <link>http://example.org/tags/go/</link>
+    <link>https://cranky-mcnulty-c2341f.netlify.app/tags/go/</link>
     <description>Recent content in go on JH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Aug 2020 16:15:10 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cranky-mcnulty-c2341f.netlify.app/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/about/</link>
       <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/about/</guid>
       <description>&lt;p&gt;Hi, my name is Jess Herzog.  I&amp;rsquo;m a designer and educator developing creative ways to learn STEM.  Thanks for visiting!  Find my contact info on &lt;a href=&#34;http://jessica-herzog.com/&#34;&gt;my main site.&lt;/a&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/about/jess.JPG&#34;/&gt; 
+    &lt;img src=&#34;https://cranky-mcnulty-c2341f.netlify.app/img/about/jess.JPG&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>

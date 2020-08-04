@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/about/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/tags/go/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/here/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/tags/here/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/tags/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tags/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/tags/tags/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/series/</loc>
   </url>
   
 </urlset>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JH</title>
-    <link>http://example.org/tags/</link>
+    <link>https://cranky-mcnulty-c2341f.netlify.app/tags/</link>
     <description>Recent content in Tags on JH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Aug 2020 16:15:10 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cranky-mcnulty-c2341f.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>go</title>
-      <link>http://example.org/tags/go/</link>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/tags/go/</link>
       <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
       
-      <guid>http://example.org/tags/go/</guid>
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>here</title>
-      <link>http://example.org/tags/here/</link>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/tags/here/</link>
       <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
       
-      <guid>http://example.org/tags/here/</guid>
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/tags/here/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tags</title>
-      <link>http://example.org/tags/tags/</link>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/tags/tags/</link>
       <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
       
-      <guid>http://example.org/tags/tags/</guid>
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/tags/tags/</guid>
       <description></description>
     </item>
     
