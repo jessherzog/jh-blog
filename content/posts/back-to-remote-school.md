@@ -16,4 +16,4 @@ It would honestly pain me to bore you any further, dear reader, with my opinion 
 
 Just as teaching Science has (very obviously) helped me reach my goal to teach more STEM-specific material, remote learning has (slightly less obviously) helped me find direct use for my digital design background as a teacher.  Well to be fair, my coworkers would definitely give it up when they saw my bulletin boards or walked into my classroom.  But for the vast majority of the school year, I had to continue honing close-to-foreign skills (try the single skill of just: working with kids).  
 
-Once our school went remote, I started casually flaunting my digital design skills around as if they were a pair of abercrombie jeans in a middle school hallway.
+Once our school went remote, I started casually flaunting my digital design skills around as if they were a pair of Abercrombie jeans in a middle school hallway.
