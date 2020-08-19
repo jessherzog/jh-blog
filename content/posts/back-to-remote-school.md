@@ -22,7 +22,7 @@ Now that I'll be starting my class remotely, digital tools must now be used to s
 
 ![](https://www.aha.org/sites/default/files/2020-04/HCWs_wearing_photos-700x532.jpg)
 
-*See one way doctors are solving this problem with "Share Your Smile"*
+###### *See one way doctors are solving this problem with ["Share Your Smile"](https://www.aha.org/other-resources/2020-04-20-health-care-workers-ppe-wear-photos-themselves-smiling-comfort-patients)*
 
 Bottom line is: fresh, new kids are coming into my class with absolutely no idea what I'm like.  They may have seen me around the hallway (quite the place to be noticed), but have had the most limited interactions possible.  Fostering positive relationships with children is a major key in effective teaching young children.  Just like a doctor who is unrecognizable in full PPE also happens to be intimidating in the face of patients, imagine the intimidation a digital interface creates in the face of a six year old and their learning.  
 
