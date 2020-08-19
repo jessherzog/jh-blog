@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JH</title>
+    <link>https://cranky-mcnulty-c2341f.netlify.app/posts/</link>
+    <description>Recent content in Posts on JH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 23:46:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://cranky-mcnulty-c2341f.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Netlify CMS post 2!</title>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/posts/2020-08-04-netlify-cms-post-2/</link>
+      <pubDate>Tue, 04 Aug 2020 23:46:55 +0000</pubDate>
+      
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/posts/2020-08-04-netlify-cms-post-2/</guid>
+      <description>&lt;p&gt;blog?  or posts&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

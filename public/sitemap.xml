@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/</loc>
+    <lastmod>2020-08-04T23:46:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/posts/2020-08-04-netlify-cms-post-2/</loc>
+    <lastmod>2020-08-04T23:46:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cranky-mcnulty-c2341f.netlify.app/posts/</loc>
+    <lastmod>2020-08-04T23:46:55+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cranky-mcnulty-c2341f.netlify.app/about/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://cranky-mcnulty-c2341f.netlify.app/tags/about/</loc>
-    <lastmod>2020-08-02T16:15:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cranky-mcnulty-c2341f.netlify.app/</loc>
     <lastmod>2020-08-02T16:15:10-04:00</lastmod>
   </url>
   
