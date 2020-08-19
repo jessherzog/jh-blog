@@ -6,9 +6,19 @@
     <description>Recent content in Categories on JH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 04:43:28 +0000</lastBuildDate>
     
 	<atom:link href="https://cranky-mcnulty-c2341f.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>remote learning</title>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/categories/remote-learning/</link>
+      <pubDate>Wed, 19 Aug 2020 04:43:28 +0000</pubDate>
+      
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/categories/remote-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

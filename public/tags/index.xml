@@ -6,10 +6,19 @@
     <description>Recent content in Tags on JH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 16:15:10 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 04:43:28 +0000</lastBuildDate>
     
 	<atom:link href="https://cranky-mcnulty-c2341f.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>school</title>
+      <link>https://cranky-mcnulty-c2341f.netlify.app/tags/school/</link>
+      <pubDate>Wed, 19 Aug 2020 04:43:28 +0000</pubDate>
+      
+      <guid>https://cranky-mcnulty-c2341f.netlify.app/tags/school/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
