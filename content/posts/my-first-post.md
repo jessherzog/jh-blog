@@ -1,7 +1,7 @@
 ---
 title: Back to Remote School
 date: 2020-08-02T16:15:10-04:00
-draft: true
+draft: false
 description: Setting up a virtual classroom without the Bitmoji mess
 tags:
   - tags
