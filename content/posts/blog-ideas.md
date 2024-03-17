@@ -1,10 +1,10 @@
 ---
-title: "Blog ideas"
+title: "blog ideas"
 date: 2020-08-02T16:15:10-04:00
 draft: true
-description: "Post description"
-tags: [ "tags", "go", "here" ]
-categories: [ "themes", ]
+description: ""
+tags: [ "crash course" ]
+categories: [ ]
 ---
 
 Hey!  I'm `inside content`.

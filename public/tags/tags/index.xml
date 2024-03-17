@@ -1,27 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tags on JH</title>
-    <link>https://cranky-mcnulty-c2341f.netlify.app/tags/tags/</link>
-    <description>Recent content in tags on JH</description>
+    <title>Tags on JH</title>
+    <link>http://localhost:1313/tags/tags/</link>
+    <description>Recent content in Tags on JH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 16:15:10 -0400</lastBuildDate>
     
-	<atom:link href="https://cranky-mcnulty-c2341f.netlify.app/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://cranky-mcnulty-c2341f.netlify.app/about/</link>
-      <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
+      <title>Blog ideas</title>
+      <link>http://localhost:1313/posts/blog-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cranky-mcnulty-c2341f.netlify.app/about/</guid>
-      <description>&lt;p&gt;Hi, my name is Jess Herzog.  I&amp;rsquo;m a designer and educator developing creative ways to learn STEM.  Thanks for visiting!  Find my contact info on &lt;a href=&#34;http://jessica-herzog.com/&#34;&gt;my main site.&lt;/a&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://cranky-mcnulty-c2341f.netlify.app/img/about/jess.JPG&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/p&gt;
+      <guid>http://localhost:1313/posts/blog-ideas/</guid>
+      <description>&lt;p&gt;Hey!  I&amp;rsquo;m &lt;code&gt;inside content&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;analog -&amp;gt; digital series (Clocks, Calculators)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Binary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vectors&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Photoshop tool series (filters, pattern/repeat element, clone stamp, erase/delete, duotone/selected color, uploading image/pixels rendering, mirror/symmetry, smudge/liquify, paint bucket/flood fill/quick select?, blending tool, resample/+/-resolution/noise reduction, transparency/alpha compositing)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer graphics crashcourse&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;lsquo;Ed tech&amp;rsquo; trends and definition&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;art -&amp;gt; STEM/tech transition&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;left/right brain myth&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;inventions series (Personal computer, GUI, printing press, Jacquard loom)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;history of tech as mediums&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;computational art series&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;learning styles&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

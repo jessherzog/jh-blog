@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crash Course on JH</title>
+    <link>http://localhost:1313/tags/crash-course/</link>
+    <description>Recent content in Crash Course on JH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 16:15:10 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/crash-course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Binary basics</title>
+      <link>http://localhost:1313/posts/binary/</link>
+      <pubDate>Sun, 02 Aug 2020 16:15:10 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/binary/</guid>
+      <description>&lt;p&gt;Hey!  I&amp;rsquo;m &lt;code&gt;inside content&lt;/code&gt;.
+Audience:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;simpler logic, simpler to build&lt;/li&gt;
+&lt;li&gt;base 10 system -&amp;gt; base 2 -&amp;gt; hexadecimal&lt;/li&gt;
+&lt;li&gt;make imgs using binary (paint by number)&lt;/li&gt;
+&lt;li&gt;using binary on existing imgs (threshold)&lt;/li&gt;
+&lt;li&gt;code presentation: history of binary&lt;/li&gt;
+&lt;li&gt;analog vs pwm: on/off vs dimmer/spectrum&lt;/li&gt;
+&lt;li&gt;barcodes, KR code, AR icons (CV)&lt;/li&gt;
+&lt;li&gt;pre-electronics: mechanical handdriven calculator -&amp;gt; mechanical challenge, relied on gears&lt;/li&gt;
+&lt;li&gt;30s-40s (electronics): vacuum tubes, anode/cathode (on/off) logic&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
