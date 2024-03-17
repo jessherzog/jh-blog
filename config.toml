@@ -43,7 +43,7 @@ category = "categories"
 tag = "tags"
 series = "series"
 [social]
-instagram="http://instagram.com/oddlysatisfyingmath"
+twitter="http://x.com/satisfyingmath"
 youtube="https://www.youtube.com/playlist?list=PLgGEde_Quoix4UY39jzMT6t1YvYlHD56z"
 github="http://github.com/jessherzog"
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"
